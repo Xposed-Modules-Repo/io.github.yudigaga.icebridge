@@ -2,7 +2,7 @@
 
 IceBridge is an Android LSPosed module supporting IceBox SDK mode and Root (su) mode.
 
-## 鍔熻兘
+## Features
 
 - Observes supported HTTPS links from system_server.
 - Identifies Xiaohongshu, Weibo, Zhihu, Alipay, X/Twitter, YouTube, Instagram, and Telegram targets.
